@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import { nikhil } from "../assets";
 
 const Hero = () => {
   return (
@@ -22,10 +23,11 @@ const Hero = () => {
           I specialize in crafting compelling web and UI applications, excelling in both front-end development and test engineering.
           </p>
         </div>
+        <img src={nikhil} alt="nikhil" className='w-[400px] h-[230px] mt-2 rounded-full object-cover'/>
       </div>
 
-      <ComputersCanvas />
-
+      <ComputersCanvas/>
+      
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>

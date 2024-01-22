@@ -37,6 +37,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import contactmanager from './contactmanager.png';
 import movieland from './movieland.png';
+import nikhil from './nikhil.png'
 
 export {
   logo,
@@ -75,4 +76,5 @@ export {
   mysql,
   contactmanager,
   movieland,
+  nikhil,
 };
