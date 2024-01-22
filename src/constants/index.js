@@ -13,8 +13,6 @@ import {
     CTSH,
     twin,
     Globallogic,
-    carrent,
-    jobit,
     tripguide,
     threejs,
     selenium,

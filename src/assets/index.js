@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import selenium from './tech/selenium.png';
 import cucumber from './tech/cucumber.png';
-import mySql from './tech/mySql.png';
+import mysql from './tech/mysql.png';
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -72,7 +72,7 @@ export {
   Ceridian,
   selenium,
   cucumber,
-  mySql,
+  mysql,
   contactmanager,
   movieland,
 };
