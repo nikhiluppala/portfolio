@@ -17,7 +17,7 @@ import {
     threejs,
     selenium,
     cucumber,
-    mySql,
+    mysql,
     contactmanager,
     movieland,
   } from "../assets";
@@ -111,7 +111,7 @@ import {
     },
     {
       name: "mySql",
-      icon: mySql,
+      icon: mysql,
     },
   ];
   
