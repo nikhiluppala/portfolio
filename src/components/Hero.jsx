@@ -3,6 +3,8 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
 import { nikhil } from "../assets";
+import Resume from "./Resume";
+
 
 const Hero = () => {
   return (
@@ -44,7 +46,7 @@ const Hero = () => {
             />
             
           </div>
-          <div className='items-center'> Click Me </div>
+          
         </a>
       </div>
     </section>

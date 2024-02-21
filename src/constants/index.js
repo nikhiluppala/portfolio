@@ -117,32 +117,31 @@ import {
   
   const experiences = [
     {
-      title: "Software Deveoper - Intern",
+      title: "Software Deveopment Engineer - Intern",
       company_name: "Ceridian",
       icon: Ceridian,
       iconBg: "#383E56",
       date: "January 2023 - August 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Improved the performance of application from 7% to 80% on Lighthouse by applying lazy loading and fixed scalability problems by using analytical tools and practiced agile methodologies such as Scrum and kanban.",
-        "Conducted in-depth analysis and testing of existing software systems to identify and address performance bottlenecks, leading to a 15% improvement in overall system efficiency",
-        "Led the improvement of React’s progressive web app (PWA) performance by adding offline capability and implementing caching techniques for service workers",
+        "Developed front-end features using HTML, CSS (Cascading Style Sheets), and React.js, providing a valuable user experience to customers.",
+        "Improved the performance of applicaOon from 7% to 80% on Lighthouse by applying lazy loading and fixed scalability problems by using analyOcal tools and practiced agile methodologies such as Scrum and kanban.",
+        "Conducted in-depth analysis and testing of existing software systems to identify and address performance bottlenecks, leading to a 15% improvement in overall system efficiency.",
+        "Engaging in the Agile development process, participating in daily stand-ups, sprint planning, and retrospective meetings to ensure seamless coordination and punctual delivery of testing milestones.",
+        "Integrated third-party APIs and services into React.js applications, expanding functionality and improving user experiences through additional features and data sources.",
       ],
     },
     {
-      title: "Automation Engineer",
+      title: "Automation Tester",
       company_name: "Twin Health",
       icon: twin,
       iconBg: "#E6DEDD",
       date: "May 2021 - December 2021",
       points: [
-        "Led the development of a Selenium Automation Framework using Cucumber for scalability, process definition, and reusability.",
         "Implemented a fully functioning framework that ran over 100’s of regression tests, identifying major and minor defects within large data volumes.",
         "Conducted thorough manual and automation testing of APIs for functionality, performance, and compatibility.",
         "Developed and executed comprehensive test plans, test cases, and test scripts to ensure accurate and efficient API testing coverage.",
         "Contributed to technical documentation and shared best practices for automation test scripts.",
-        "Enhanced to knowledge growth of the Automation test scripts through documenting and sharing best practices.",
+        "Spearheaded the integration of performance testing within the framework, enabling the identification of scalability and efficiency issues early in the development lifecycle and ensuring optimal API performance under various load conditions."
       ],
     },
     {
@@ -155,8 +154,8 @@ import {
         "Utilized the Selenium/Web-Driver framework with Java to create 400+ regression test cases along with Integration and functional testing uncovering deeply nested bugs increasing efficiency by 60%.",
         "Implemented a hybrid framework combining Cucumber and TestNG, resulting in a 60% reduction in regression cycle and faster, higher-quality application implementations.",
         "Designed and Developed automation scripts to automate API's and reduce 30% execution of UI test cases.",
-        "Configured and integrated test suits with continuous integration (CI) environment.",
-        "Increased coverage of unit test cases on an existing project by 23%.",
+        "Established a CI/CD pipeline using Groovy and seamlessly integrated it with our framework.",
+        "Introduced comprehensive logging mechanisms within the automation framework, enhancing troubleshooting capabilities and facilitating quicker identification and resolution of issues, thereby further streamlining the testing process and improving overall product quality.",
       ],
     },
     {
@@ -166,10 +165,11 @@ import {
       iconBg: "#E6DEDD",
       date: "July 2018 - April 2020",
       points: [
-        "Spearheaded conversion of more than 200 manual test cases into automated tests, resulting in a 70% reduction in manual work.",
-        "Conducted database testing to validate data integrity, consistency, and correctness, utilizing SQL and relational databases.",
-        "Performed regression, sanity, and system integration testing in e-commerce applications, leveraging JIRA and other tracking tools.",
-        "Developed the SOMS tool to facilitate continuous manual testing even during server downtimes, generating hundreds of manual orders.",
+        "Spearheaded conversion of more than 200 manual test cases into automated tests using Cucumber at Arcadia, resulting in a 70% reduction in manual work.",
+        "Implemented cross-browser automation testing and Database automation at Adorama to ensure consistent application functionality across various web browsers, enhancing overall compatibility and user experience.",
+        "Established the Robot framework from the ground up at Emerson, serving as a cornerstone for test automation in every sprint.",
+        "Utilized threading concepts to execute test cases concurrently, resulting in considerable time savings during test execution.",
+        "Pioneered the incorporation of comprehensive error handling mechanisms within the automation framework, enabling graceful handling of unexpected errors and exceptions during test execution, thereby promoting stability and reliability across automated test suites.",
       ],
     },
   ];
