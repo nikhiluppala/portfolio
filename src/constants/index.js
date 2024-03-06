@@ -131,7 +131,7 @@ import {
       ],
     },
     {
-      title: "Automation Tester",
+      title: "Software Engineer",
       company_name: "Twin Health",
       icon: twin,
       iconBg: "#E6DEDD",
@@ -145,7 +145,7 @@ import {
       ],
     },
     {
-      title: "Junior Automation Tester",
+      title: "Software Engineer",
       company_name: "Globallogic India",
       icon: Globallogic,
       iconBg: "#383E56",
@@ -237,25 +237,21 @@ import {
       source_code_link: "https://contactsaverapplication.netlify.app/",
     },
     {
-      name: "Trip Guide",
+      name: "Crypto Tracker",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "Reactjs",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "SCSS",
           color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://crypto-beryl-seven.vercel.app/bitcoin",
     },
   ];
   
