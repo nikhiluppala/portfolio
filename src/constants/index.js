@@ -39,15 +39,15 @@ import {
   
   const services = [
     {
-      title: "Software Developer - Intern",
+      title: "Software Development Engineer - Intern",
       icon: Ceridian,
     },
     {
-      title: "Senior Automation Tester",
+      title: "Software Engineer",
       icon: twin,
     },
     {
-      title: "Junior Automation Tester",
+      title: "Software Engineer",
       icon: Globallogic,
     },
     {
