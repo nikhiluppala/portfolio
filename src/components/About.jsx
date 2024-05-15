@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "",0.1,1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Experienced Software Development Engineer in Test (SDET) with a robust background in frontend development. Proficient in crafting dynamic and responsive web applications using React and Node.js frameworks. 
+        Experienced Software Development Engineer in Test (SDET) with a robust background in software development. Proficient in crafting dynamic and responsive web applications using React and Node.js frameworks. 
         Demonstrates expertise in building resilient test automation frameworks. Eager to contribute my skills to innovative projects demanding a blend of SDET proficiency and frontend development knowledge.
       </motion.p>
 

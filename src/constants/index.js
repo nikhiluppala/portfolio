@@ -123,11 +123,11 @@ import {
       iconBg: "#383E56",
       date: "January 2023 - August 2023",
       points: [
-        "Developed front-end features using HTML, CSS (Cascading Style Sheets), and React.js, providing a valuable user experience to customers.",
+        "Designed and maintained automated test scripts using Cypress, enhancing test coverage by 40%.",
         "Improved the performance of applicaOon from 7% to 80% on Lighthouse by applying lazy loading and fixed scalability problems by using analyOcal tools and practiced agile methodologies such as Scrum and kanban.",
-        "Conducted in-depth analysis and testing of existing software systems to identify and address performance bottlenecks, leading to a 15% improvement in overall system efficiency.",
-        "Engaging in the Agile development process, participating in daily stand-ups, sprint planning, and retrospective meetings to ensure seamless coordination and punctual delivery of testing milestones.",
-        "Integrated third-party APIs and services into React.js applications, expanding functionality and improving user experiences through additional features and data sources.",
+        "Identified and documented software defects using JIRA X-ray, facilitating their resolution, and ensuring quality.",
+        "Implemented data redshifting practices using AWS services to anonymize sensitive data for software testing purposes, ensuring data privacy and security in non-producHon environments.",
+        "Leveraged Apache Spark to preprocess and analyze vast datasets, boosHng tesHng data quality and reliability by 30% through efficient data processing and insights extracHon.",
       ],
     },
     {
@@ -137,11 +137,11 @@ import {
       iconBg: "#E6DEDD",
       date: "May 2021 - December 2021",
       points: [
-        "Implemented a fully functioning framework that ran over 100’s of regression tests, identifying major and minor defects within large data volumes.",
-        "Conducted thorough manual and automation testing of APIs for functionality, performance, and compatibility.",
-        "Developed and executed comprehensive test plans, test cases, and test scripts to ensure accurate and efficient API testing coverage.",
-        "Contributed to technical documentation and shared best practices for automation test scripts.",
-        "Spearheaded the integration of performance testing within the framework, enabling the identification of scalability and efficiency issues early in the development lifecycle and ensuring optimal API performance under various load conditions."
+        "Implemented a fully functioning framework that ran over 1000’s of regression tests, identifying major and minor defects within large data volumes.",
+        "Collaborate with cross-functional teams to design and implement comprehensive test plans and strategies for web and mobile applications.",
+        "Spearheaded the integration of performance testing within the framework, resulting in a 20% reduction in mean response time and a 35% increase in throughput. This facilitated the early identification of scalability and efficiency issues, ensuring optimal API performance under various load conditions.",
+        "Leveraged Postman to automate over 100 collections, each comprising a minimum of 5 APIs, streamlining testing processes and enhancing efficiency in API testing.",
+        "Spearheaded comprehensive microservices testing strategy, ensuring robustness, scalability, and reliability of distributed systems through meticulous API testing, and end-to-end testing methodologies."
       ],
     },
     {
@@ -151,11 +151,11 @@ import {
       iconBg: "#383E56",
       date: "August 2020 - May 2021",
       points: [
-        "Utilized the Selenium/Web-Driver framework with Java to create 400+ regression test cases along with Integration and functional testing uncovering deeply nested bugs increasing efficiency by 60%.",
+        "Utilized the Selenium/Web-Driver with Cucumber framework with Java to create 1000+ regression test cases along with Integration and functional testing uncovering deeply nested bugs increasing efficiency by 60%.",
+        "Assisted the manual team in creating test plans, scenarios, and cases using TestRail, enhancing testing efficiency and documentation accuracy.",
         "Implemented a hybrid framework combining Cucumber and TestNG, resulting in a 60% reduction in regression cycle and faster, higher-quality application implementations.",
-        "Designed and Developed automation scripts to automate API's and reduce 30% execution of UI test cases.",
-        "Established a CI/CD pipeline using Groovy and seamlessly integrated it with our framework.",
-        "Introduced comprehensive logging mechanisms within the automation framework, enhancing troubleshooting capabilities and facilitating quicker identification and resolution of issues, thereby further streamlining the testing process and improving overall product quality.",
+        "Developed an API automation framework integrated with the UI automation suite, utilizing JSON for payload and Cucumber as the framework. Achieved a 60% reduction in UI test case execution time.",
+        "Orchestrated the implementation of a streamlined CI/CD pipeline leveraging Jenkins and Groovy, resulting 40% increase in automation coverage through automated script execution post-deployment.",
       ],
     },
     {
@@ -165,11 +165,11 @@ import {
       iconBg: "#E6DEDD",
       date: "July 2018 - April 2020",
       points: [
-        "Spearheaded conversion of more than 200 manual test cases into automated tests using Cucumber at Arcadia, resulting in a 70% reduction in manual work.",
-        "Implemented cross-browser automation testing and Database automation at Adorama to ensure consistent application functionality across various web browsers, enhancing overall compatibility and user experience.",
-        "Established the Robot framework from the ground up at Emerson, serving as a cornerstone for test automation in every sprint.",
-        "Utilized threading concepts to execute test cases concurrently, resulting in considerable time savings during test execution.",
-        "Pioneered the incorporation of comprehensive error handling mechanisms within the automation framework, enabling graceful handling of unexpected errors and exceptions during test execution, thereby promoting stability and reliability across automated test suites.",
+        "Achieved a significant reduction of 90% in time consumption for manual order placement by leveraging SOMS, thereby enhancing operational efficiency, and minimizing downtime impact.",
+        "Led the design phase of the Robot Framework, defining architecture, components, and specifications in collaboration with stakeholders, ensuring scalability, compatibility, and adherence to project requirements.",
+        "Supported and guided the manual team at Arcadia to adopt Cucumber automation over WebdriverIO, achieving 30% reduction in automation execution time.",
+        "Automated over 100 user stories within 3 months using the CITS automation tool, including database automation. Developed custom Java jar files and integrated them into the CITS tool, resulting in a 30% reduction in script development.",
+        "Implemented cross-browser automation testing and database automation at Adorama to ensure consistent application functionality across various web browsers, resulting in a 30% increase in efficiency."
       ],
     },
   ];
